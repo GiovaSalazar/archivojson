@@ -1,0 +1,43 @@
+[
+{
+	"titulo1":"Annabelle 3: vuelve a casa",
+	"protagonistas1":"Mckenna Grace, Patrick Wilson, Vera Farmiga, Madison Iseman, Katie Sarife, Michael Cimino, Stephen Blackehart, Steve Coulter, Eddie J. Fernandez, Emily Brobst, Alison White, Paul Dean, Luca Luhan, Samara Lee, Brittany Hoza, Michael Patrick McGill",
+	"sinopsis1":"Ed y Lorraine Warren encierran a Annabelle, una muñeca poseída, y la dejan en una vitrina bendecida como medida de seguridad. Sin embargo, una noche terrorífica, Annabelle despierta al resto de espíritus malignos confinados en la misma habitación",
+	"director1":"Gary Dauberman"
+},
+
+{
+	"titulo2":"Joker",
+	"protagonistas2":"Joaquin Phoenix, Robert De Niro, Zazie Beetz, Frances Conroy, Brett Cullen, Shea Whigham, Bill Camp, Glenn Fleshler, Marc Maron, April Grace, Dante Pereira-Olson, Carrie Louise Putrello",
+	"sinopsis2":"Arthur Fleck adora hacer reír a la gente, pero su carrera como comediante es un fracaso. El repudio social, la marginación y una serie de trágicos acontecimientos lo conducen por el sendero de la locura y, finalmente, cae en el mundo del crimen",
+	"director2":"Todd Phillips"
+},
+
+{
+	"titulo3":"Bad Boys",
+	"protagonistas3":"Martin Lawrence, Will Smith, Téa Leoni, Tchéky Karyo, Joe Pantoliano, Theresa Randle, Marg Helgenberger, Anna Thomson, Nestor Serrano, Kevin Corrigan",
+	"sinopsis3":"Dos policías de Miami solo tienen 72 horas para encontrar cien millones de dólares en heroína robados del almacén de evidencias de su propia comisaría",
+	"director3":"Michael Bay"
+},
+
+{
+	"titulo4":"Sonic la película",
+	"protagonistas4":"James Marsden, Jim Carrey, Neal McDonough, Tika Sumpter, Adam Pally, Leanne Lapp, Shannon Chan-Kent, Debs Howard, Bailey Skodje, Frank C. Turner, Dean Petriw, Natasha Rothwell, Elfina Luk, Emma Oliver, Breanna Watkins, Lee Majdoub, John Specogna, Nicholas Dohy, Lisa Chandler, Melody Nosipho Niemann, Jeanie Cloutier, Jeff Sanca, Michael Hogan",
+	"sinopsis4":"Sonic intenta atravesar las complejidades de la vida en la Tierra con su nuevo mejor amigo, un humano llamado Tom Wachowski. Deberán unir sus fuerzas para evitar que el malvado Dr. Robotnik capture a Sonic y use sus poderes para dominar el mundo",
+	"director4":"Jeff Fowler"
+},
+
+{
+	"titulo5":"Godzilla 2: el rey de los monstruos",
+	"protagonistas5":"Kyle Chandler, Vera Farmiga, Millie Bobby Brown, Ken Watanabe, Ziyi Zhang, Bradley Whitford, Sally Hawkins, Charles Dance, Thomas Middleditch, Aisha Hinds, O'Shea Jackson Jr., David Strathairn, Anthony Ramos, Elizabeth Faith Ludlow, Jonathan Howard",
+	"sinopsis5":"Las aventuras de unos criptzóologos de una agencia mientras tratan de enfrentarse a unos monstruos entre los que se encuentra el propio Godzilla. Entre todos intentarán frenar a estas criaturas que harán todo lo posible por sobrevivir",
+	"director5":"Michael Dougherty"
+},
+
+{
+	"titulo6":"John Wick 3: Parabellum",
+	"protagonistas6":"Keanu Reeves, Halle Berry, Ian McShane, Laurence Fishburne	, Mark Dacascos, Asia Kate Dillon	, Lance Reddick	, Tobias Segal, Anjelica Huston, Saïd Taghmaoui	, Jerome Flynn, Randall Duk Kim, Margaret Daly, Robin Lord Taylor, Susan Blommaert",
+	"sinopsis6":"El legendario sicario John Wick es perseguido por las calles de Nueva York. Lo buscan unos mercenarios por una recompensa de 14 millones de dólares por su cabeza y por romper con una regla",
+	"director6":"Chad Stahelski"
+}
+]
